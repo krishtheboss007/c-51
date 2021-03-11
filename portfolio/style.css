@@ -1,0 +1,22 @@
+h1{
+    color:red;
+}
+
+
+.header{
+background-color: rgb(217, 255, 0);
+display:flex;
+justify-content:space-around;
+}
+
+.allgames{
+    display:flex;
+    justify-content:space-between;
+}
+.socialmedia{
+    display:flex;
+    justify-content:flex-end;
+}
+h2,p{
+    text-align:center;
+}
